@@ -18,6 +18,8 @@ VALUES
   (4, 4),
   (5, 10),
   (5, 2),
-  (6,10),
-  (7, 7),
-  (8, 3);
+  (8, 4),
+  (9, 7),
+  (10, 3);
+
+  -- REFATORAR, pois a lista falta a pessoa 6 e 7
