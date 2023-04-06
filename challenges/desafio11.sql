@@ -8,10 +8,7 @@ FROM
 GROUP BY 
   album
 ORDER BY
--- Seu resultado deve estar ordenado em ordem decrescente, baseando-se no número de favoritadas
   favoritadas DESC,
--- ordene os resultados pelo nome do álbum em ordem alfabética
   album
--- top 3 de álbuns
 LIMIT 
   3;

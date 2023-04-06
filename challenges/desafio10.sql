@@ -21,5 +21,3 @@ VALUES
   (8, 4),
   (9, 7),
   (10, 3);
-
-  -- REFATORAR, pois a lista falta a pessoa 6 e 7

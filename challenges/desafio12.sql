@@ -1,5 +1,4 @@
 SELECT
--- O nome da pessoa artista
   a.artista_name AS artista,
   CASE 
     WHEN COUNT(f.cancao_id) >= 5 THEN 'A'
@@ -15,6 +14,5 @@ FROM
 GROUP BY 
   artista
 ORDER BY
--- ORDENAR BASEADO NA QUANTIDADE DE CANÇÕES FAVORITAS
   COUNT(f.cancao_id) DESC,
   artista;
