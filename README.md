@@ -1,6 +1,6 @@
 # MySQL - One for all
 
-Realizei este projeto na seção 03 de Back-end - Finções SQL, JOIs e Normalização. 
+Realizei este projeto na seção 03 de Back-end - Funções SQL, JOIs e Normalização. 
 
 A iniciativa compreendeu o estabelecimento de um sistema de gerenciamento de dados conectado a banco de dados relacional para uma empresa de músicas. Este banco de dados tem a aptidão de preservar informações sobre consumidores, músicas, intérpretes, discos e listas de reprodução.
 
